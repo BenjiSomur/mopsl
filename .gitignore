@@ -1,0 +1,5 @@
+*.txt~
+mopsl/__pycache__/
+mopsl/*.py~
+tmp/
+target-runner~
